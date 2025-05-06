@@ -15,21 +15,23 @@ A beginner-friendly calculator application built using Python and Tkinter. This 
 
 ## 📸 Screenshot
 
-**
+![](python-mini-projects/screenshot.png)
 
 ## 🛠️ Installation
 
-1. **Clone the repository**
+  1. **Clone the repository**
    ```bash
    git clone https://github.com/amansuren/python-mini-projects.git
    cd python-mini-projects
-
-2. **Run the app**
-```bash
-python calculator.py
 ```
 
+  2. **Run the app**
+  ```bash
+  python calculator.py
+  ```
+
 Note: Make sure Python 3 is installed on your system.
+## 📁 Project Structure
 ```bash
 python-mini-projects/
 │
