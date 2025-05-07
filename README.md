@@ -15,7 +15,7 @@ A beginner-friendly calculator application built using Python and Tkinter. This 
 
 ## 📸 Screenshot
 
-![](python-mini-projects/screenshot.png)
+![Image Alt](https://github.com/amansuren/python-mini-projects/blob/f99fb233256118c8913655f98577d14d22da5dfe/screenshot.png)
 
 ## 🛠️ Installation
 
