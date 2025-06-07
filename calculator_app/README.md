@@ -13,7 +13,7 @@ A beginner-friendly calculator application built using Python and Tkinter. This 
 - Error handling for invalid inputs (e.g., division by zero)
 
 ## 📸 Screenshot
-
+ <img src ="https://github.com/amansuren/python-mini-projects/blob/57bbe596db870f84570f11dcbef59dad601e2ee0/calculator_app/screenshot.png" width ="300" height="200" >
 
 ## 🛠️ Installation
 
