@@ -12,4 +12,18 @@
 - Scrollable interface
 - Clickable article links open in the browser
 - Refresh button to fetch the latest headlines
+
+## 🛠️ Installation
+1. Clone the Repository
+   - git clone https://github.com/amansuren/python-mini-projects.git
+   - cd python-mini-projects
+   - cd News_app
+2. Install Dependencies
+   - pip install -r requirements.txt
+If requirements.txt doesn't exist yet, use:
+   - pip install requests python-dotenv
+
+3. Run the App
+   - python newsapp.py
+
             
