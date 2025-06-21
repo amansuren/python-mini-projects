@@ -14,16 +14,22 @@
 - Refresh button to fetch the latest headlines
 
 ## 🛠️ Installation
+
 1. Clone the Repository
-   - git clone https://github.com/amansuren/python-mini-projects.git
-   - cd python-mini-projects
-   - cd News_app
-2. Install Dependencies
-   - pip install -r requirements.txt
-If requirements.txt doesn't exist yet, use:
-   - pip install requests python-dotenv
+   ```python
+   $ git clone https://github.com/amansuren/python-mini-projects.git
+   $ cd python-mini-projects
+   $ cd News_app 
 
-3. Run the App
-   - python newsapp.py
+3. Install Dependencies
+      ```python
+   pip install -r requirements.txt
+   
 
-            
+4. If requirements.txt doesn't exist yet, use:
+   ```python
+   pip install requests python-dotenv
+   
+5. Run the App
+   ```python
+   python newsapp.py
