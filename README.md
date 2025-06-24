@@ -3,8 +3,9 @@
 
 ## 🔹 Projects Included
 
-- 🧮 Simple Calculator (Tkinter GUI)
+- 🧮[Simple Calculator (Tkinter GUI)](https://github.com/amansuren/python-mini-projects/tree/637f122491932bbbde7eb8c87ada9a44c5a60516/calculator_app)
 - :newspaper: News app
 - :floppy_disk: Data cleaner (using streamlit)
 
 
+				
